@@ -106,4 +106,4 @@ When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEng
 How will we review?
 -------------------
 
-[Guidelines can be found here](https://github.com/shellypalmer/coding-challenge-tools/blob/master/README.md)
+[Guidelines can be found here](https://github.com/shellypalmer/coding-challenge/blob/master/README.md)
