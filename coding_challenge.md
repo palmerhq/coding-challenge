@@ -84,6 +84,7 @@ Here are some technologies we are more familiar with:
 
 * Python
 * JavaScript
+* Java
 * Ruby
 * PHP
 * Go
